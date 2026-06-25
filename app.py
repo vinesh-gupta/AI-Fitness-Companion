@@ -21,3 +21,5 @@ with tabs[1]: show_gym_buddy()
 with tabs[2]: show_habit_tracker()
 with tabs[3]: show_workout_planner()
 with tabs[4]: show_admin_dashboard()
+
+st.button("🔄 Reset All Habits", on_click=lambda: st.session_state.clear())
