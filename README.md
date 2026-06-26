@@ -67,4 +67,4 @@ AI_Fitness_Companion/
 ## 🎥 Demo Video
 
 Google Drive:
-https://drive.google.com/file/d/xxxxxxxxxxxxxxxx/view?usp=sharing
+https://drive.google.com/file/d/1xPAT0P0CaicvlXBXYS2ZJw8BX0wucb13/view?usp=drive_link
