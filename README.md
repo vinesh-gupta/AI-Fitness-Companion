@@ -63,3 +63,8 @@ AI_Fitness_Companion/
 - Multi-user Support
 - Mobile Application
 - Advanced AI Predictions
+
+## 🎥 Demo Video
+
+Google Drive:
+https://drive.google.com/file/d/xxxxxxxxxxxxxxxx/view?usp=sharing
